@@ -6,7 +6,7 @@ Postać:
 WASD - poruszanie się  
 Spacja - skok  
 L - latarka  
-F - podnoszenie, interakcja z kokpitem statku  
+F - podnoszenie, interakcja z kokpitem statku (aby latać statkiem, podjeść do ściany kokpitu, nakierować na nią i nacisnąć F)  
 Statek:  
 WASD - poruszanie się  
 Spacja - wznoszenie do góry  
