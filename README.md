@@ -1,7 +1,7 @@
-## Space-Hauler
+# Space-Hauler
 > Gra o dostarczaniu paczek na różne planety
 
-# Sterowanie: 
+## Sterowanie: 
 Postać:  
 WASD - poruszanie się  
 Spacja - skok  
